@@ -16,3 +16,5 @@ func (InstallmentEntity) Fields() []ent.Field {
 func (InstallmentEntity) Edges() []ent.Edge {
 	return nil
 }
+
+//
